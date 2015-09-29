@@ -1,0 +1,1 @@
+Pandoo CMS is an object-oritend PHP framework focused on the MVC  model.
